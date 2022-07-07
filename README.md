@@ -7,4 +7,4 @@
 
 안녕하세요?뚱이에요.
 
-![Patrick](./images/partrick.jpg)
+![Patrick](./images/patrick.jpg)
